@@ -1,0 +1,347 @@
+{
+  "assets_version": "1.0.0",
+  "updated_at": "2026-09-11",
+  "source_document": "친숙자료 출력물_20260911.pdf",
+  "asset_count": 20,
+  "files": [
+    {
+      "id": "cancer_general_01",
+      "category": "cancer",
+      "type": "consulting_image",
+      "title": "대한민국 사망원인 1위 암과 암 발생 확률",
+      "filename": "cancer_general_01.webp",
+      "path": "assets/cancer/cancer_general_01.webp",
+      "version": "1.0.0",
+      "source_page": 1,
+      "tags": [
+        "암",
+        "사망원인",
+        "암발생확률"
+      ],
+      "sha256": "5ffd6eafe2eb96e8f64fadf27133f05a360ce51e9f7d80eeaeff1401ccdf1510",
+      "required": false
+    },
+    {
+      "id": "cancer_general_02",
+      "category": "cancer",
+      "type": "consulting_image",
+      "title": "암 생존율과 암종별 생존율 차이",
+      "filename": "cancer_general_02.webp",
+      "path": "assets/cancer/cancer_general_02.webp",
+      "version": "1.0.0",
+      "source_page": 2,
+      "tags": [
+        "암",
+        "생존율"
+      ],
+      "sha256": "ea57a672d3ec27c55780a0c8fa428edb7456730109ad4a95e23bdb25e95306e5",
+      "required": false
+    },
+    {
+      "id": "cancer_general_03",
+      "category": "cancer",
+      "type": "consulting_image",
+      "title": "남녀별 주요 암 발생 순위",
+      "filename": "cancer_general_03.webp",
+      "path": "assets/cancer/cancer_general_03.webp",
+      "version": "1.0.0",
+      "source_page": 3,
+      "tags": [
+        "암",
+        "성별",
+        "발생순위"
+      ],
+      "sha256": "a8d86697a538b427f329940d4421e178f3b877bfd3db9ae7b315ede7dd13076e",
+      "required": false
+    },
+    {
+      "id": "cancer_general_04",
+      "category": "cancer",
+      "type": "consulting_image",
+      "title": "암 환자 증가 추이와 암 사망자 추이",
+      "filename": "cancer_general_04.webp",
+      "path": "assets/cancer/cancer_general_04.webp",
+      "version": "1.0.0",
+      "source_page": 4,
+      "tags": [
+        "암",
+        "환자추이",
+        "사망자"
+      ],
+      "sha256": "42572fcccd92c4cad149d249a9977bafaa4703f6d017c05d94b144470c8fd9e6",
+      "required": false
+    },
+    {
+      "id": "cancer_general_05",
+      "category": "cancer",
+      "type": "consulting_image",
+      "title": "암 전이 단계와 암 전이 시기",
+      "filename": "cancer_general_05.webp",
+      "path": "assets/cancer/cancer_general_05.webp",
+      "version": "1.0.0",
+      "source_page": 5,
+      "tags": [
+        "암",
+        "전이",
+        "5년"
+      ],
+      "sha256": "547f30773b2341bdd56c36e54eb0fd783cf81821bc27c034e8bd5ec69c435d50",
+      "required": false
+    },
+    {
+      "id": "cancer_general_06",
+      "category": "cancer",
+      "type": "consulting_image",
+      "title": "암 사망자 수 TOP5와 건강검진 필요성",
+      "filename": "cancer_general_06.webp",
+      "path": "assets/cancer/cancer_general_06.webp",
+      "version": "1.0.0",
+      "source_page": 6,
+      "tags": [
+        "암",
+        "사망자",
+        "건강검진"
+      ],
+      "sha256": "9e2119e268cf8f803aaef2f6ab93bd7a78984e13d1a50f031727b5dce8880535",
+      "required": false
+    },
+    {
+      "id": "lung_cancer_01",
+      "category": "lung_cancer",
+      "type": "consulting_image",
+      "title": "폐암 사망자 수와 흡연 관련 폐암 통계",
+      "filename": "lung_cancer_01.webp",
+      "path": "assets/lung_cancer/lung_cancer_01.webp",
+      "version": "1.0.0",
+      "source_page": 7,
+      "tags": [
+        "폐암",
+        "흡연",
+        "사망률"
+      ],
+      "sha256": "ce544fc2e8d8758927313cbbce8de101de75dd3f1f16433fd369ec57b556ce37",
+      "required": false
+    },
+    {
+      "id": "liver_01",
+      "category": "liver",
+      "type": "consulting_image",
+      "title": "음주량과 간 건강 및 간질환 사망자 수",
+      "filename": "liver_01.webp",
+      "path": "assets/liver/liver_01.webp",
+      "version": "1.0.0",
+      "source_page": 8,
+      "tags": [
+        "간",
+        "음주",
+        "간질환"
+      ],
+      "sha256": "21a05a815de647befe265a7523b2e9bc4f83c60376049edc30c3c3abd581ead7",
+      "required": false
+    },
+    {
+      "id": "hepatitis_b_01",
+      "category": "liver",
+      "type": "consulting_image",
+      "title": "B형 간염 비율과 환자 증가 추이",
+      "filename": "hepatitis_b_01.webp",
+      "path": "assets/liver/hepatitis_b_01.webp",
+      "version": "1.0.0",
+      "source_page": 9,
+      "tags": [
+        "간",
+        "B형간염",
+        "간암"
+      ],
+      "sha256": "362e5c62ee84dea2cc24c1d593c0fee3f9f836935eaa0b22bd09a65578cd691c",
+      "required": false
+    },
+    {
+      "id": "colorectal_cancer_01",
+      "category": "colorectal_cancer",
+      "type": "consulting_image",
+      "title": "대장암 환자 추이와 대장암 사망률",
+      "filename": "colorectal_cancer_01.webp",
+      "path": "assets/colorectal_cancer/colorectal_cancer_01.webp",
+      "version": "1.0.0",
+      "source_page": 10,
+      "tags": [
+        "대장암",
+        "발생",
+        "사망률"
+      ],
+      "sha256": "d2991c3d3d5d0b7ebd8d46c9598c4be29af9ae96bc8d1f6ab094f8b51e9b2847",
+      "required": false
+    },
+    {
+      "id": "colorectal_cancer_02",
+      "category": "colorectal_cancer",
+      "type": "consulting_image",
+      "title": "대장암 발견 시기별 생존율과 연령별 사망률",
+      "filename": "colorectal_cancer_02.webp",
+      "path": "assets/colorectal_cancer/colorectal_cancer_02.webp",
+      "version": "1.0.0",
+      "source_page": 11,
+      "tags": [
+        "대장암",
+        "생존율",
+        "연령"
+      ],
+      "sha256": "9d62f87010e8a1444182bf52ae51d4055bc24a9aeeb8ffb51b40dfe514bddb1a",
+      "required": false
+    },
+    {
+      "id": "stomach_cancer_01",
+      "category": "stomach_cancer",
+      "type": "consulting_image",
+      "title": "위암 전 단계와 만성 위염 환자 증가",
+      "filename": "stomach_cancer_01.webp",
+      "path": "assets/stomach_cancer/stomach_cancer_01.webp",
+      "version": "1.0.0",
+      "source_page": 12,
+      "tags": [
+        "위암",
+        "위염",
+        "전단계"
+      ],
+      "sha256": "ed987f6b8765530efc72759480526ac75060ff4a068dbe2671b6d4f1eacab9d8",
+      "required": false
+    },
+    {
+      "id": "stomach_cancer_02",
+      "category": "stomach_cancer",
+      "type": "consulting_image",
+      "title": "위암 발생률과 위암 생존율",
+      "filename": "stomach_cancer_02.webp",
+      "path": "assets/stomach_cancer/stomach_cancer_02.webp",
+      "version": "1.0.0",
+      "source_page": 13,
+      "tags": [
+        "위암",
+        "발생률",
+        "생존율"
+      ],
+      "sha256": "e8797f76fcddb26788daa6dbc0424c60ca82a3d31c446feaa12d3346654828ef",
+      "required": false
+    },
+    {
+      "id": "breast_cancer_01",
+      "category": "breast_cancer",
+      "type": "consulting_image",
+      "title": "여성암 발생률 1위 유방암과 사망자 비율",
+      "filename": "breast_cancer_01.webp",
+      "path": "assets/breast_cancer/breast_cancer_01.webp",
+      "version": "1.0.0",
+      "source_page": 14,
+      "tags": [
+        "유방암",
+        "여성암",
+        "사망률"
+      ],
+      "sha256": "c9039c3850580427e711abcad21d9d22ef19b4af1d406ad700b2b82f28af63fc",
+      "required": false
+    },
+    {
+      "id": "cardiocerebrovascular_01",
+      "category": "cardiocerebrovascular",
+      "type": "consulting_image",
+      "title": "뇌혈관질환과 심장질환 주요 질병 구성",
+      "filename": "cardiocerebrovascular_01.webp",
+      "path": "assets/cardiocerebrovascular/cardiocerebrovascular_01.webp",
+      "version": "1.0.0",
+      "source_page": 15,
+      "tags": [
+        "뇌혈관질환",
+        "심장질환",
+        "2대질환"
+      ],
+      "sha256": "061f6ae1ce49662a7aa060e5d9f60eae9d6634a4b6bcca738ccf6fe3fd237344",
+      "required": false
+    },
+    {
+      "id": "acute_myocardial_infarction_01",
+      "category": "heart",
+      "type": "consulting_image",
+      "title": "급성 심근경색 연령별 발생과 사망 원인",
+      "filename": "acute_myocardial_infarction_01.webp",
+      "path": "assets/heart/acute_myocardial_infarction_01.webp",
+      "version": "1.0.0",
+      "source_page": 16,
+      "tags": [
+        "심근경색",
+        "심장질환",
+        "발생률"
+      ],
+      "sha256": "c6e628733c29770095fb05240a9f48a00291a458302a51e1ec2f176239ae0702",
+      "required": false
+    },
+    {
+      "id": "stroke_01",
+      "category": "stroke",
+      "type": "consulting_image",
+      "title": "뇌졸중 발생 추이와 뇌경색 환자 수",
+      "filename": "stroke_01.webp",
+      "path": "assets/stroke/stroke_01.webp",
+      "version": "1.0.0",
+      "source_page": 17,
+      "tags": [
+        "뇌졸중",
+        "뇌경색",
+        "뇌혈관"
+      ],
+      "sha256": "fd4d222bd8d0e1847074b72c72ab947b7dff6ed0ad5b649901fdda94930c3000",
+      "required": false
+    },
+    {
+      "id": "stroke_02",
+      "category": "stroke",
+      "type": "consulting_image",
+      "title": "뇌졸중 연령별 환자 수와 후유장해",
+      "filename": "stroke_02.webp",
+      "path": "assets/stroke/stroke_02.webp",
+      "version": "1.0.0",
+      "source_page": 18,
+      "tags": [
+        "뇌졸중",
+        "후유장해",
+        "뇌혈관"
+      ],
+      "sha256": "16da67bf4acb038f9c653a23728253e0506e5cd886ff3b268dd344b48686180d",
+      "required": false
+    },
+    {
+      "id": "pneumonia_01",
+      "category": "pneumonia",
+      "type": "consulting_image",
+      "title": "폐렴 사망률 증가와 사망원인 순위",
+      "filename": "pneumonia_01.webp",
+      "path": "assets/pneumonia/pneumonia_01.webp",
+      "version": "1.0.0",
+      "source_page": 19,
+      "tags": [
+        "폐렴",
+        "사망률",
+        "사망원인"
+      ],
+      "sha256": "e80e024ef8609f19daa60fef46065237bf7a849304cc60d2b7a7bda85575fa82",
+      "required": false
+    },
+    {
+      "id": "pneumonia_02",
+      "category": "pneumonia",
+      "type": "consulting_image",
+      "title": "노년기 폐렴 사망률과 만성질환자 위험",
+      "filename": "pneumonia_02.webp",
+      "path": "assets/pneumonia/pneumonia_02.webp",
+      "version": "1.0.0",
+      "source_page": 20,
+      "tags": [
+        "폐렴",
+        "노년기",
+        "만성질환"
+      ],
+      "sha256": "af0bfd3be01e76db05cfb77615e5c25ae20ef83f1473a00ea29340c39bba69ae",
+      "required": false
+    }
+  ]
+}
